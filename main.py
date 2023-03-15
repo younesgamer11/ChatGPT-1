@@ -3,15 +3,15 @@ import time
 from aiogram import Bot, Dispatcher, executor, types
 import openai
 
-bot_token = 'TOKEN'
+bot_token = '6247953312:AAFV_mYUJEzr3vd5qQtRfJCkQU6g54NxmhE'
 api_key = 'TOKEN PLS'
 
 logging.basicConfig(level=logging.INFO)
 
-bot = Bot(token=bot_token)
+bot = Bot(token=6247953312:AAFV_mYUJEzr3vd5qQtRfJCkQU6g54NxmhE)
 dp = Dispatcher(bot)
 
-openai.api_key = api_key
+openai.api_key = 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
 
 messages = {}
 
